@@ -1,0 +1,47 @@
+.css {
+    color: rgb(71, 22, 117);
+}
+
+.satu {
+    color: red;
+}
+
+.error {
+    color: #803401;
+}
+
+.dua {
+    color: #770833;
+}
+div i{
+    color: #151fb1;
+}
+#top-container{
+    background-color: #dad6d6;
+}
+#bot-container{
+    background-color: #c72d5b;
+}
+a[href]{
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: #ca4511;
+}
+a[href="www.unklab.ac.id"]{
+    background-color: #0a89a8;
+}
+a[href$=".com"]{
+    background-color: #07090e;
+}
+h1:hover{
+    color: whitesmoke;
+    background-color: black;
+}
+p::selection{
+    background-color: rgb(226, 100, 100);
+    color: #420b8a ;
+}
+a::before{
+    content:"Link -";
+}
