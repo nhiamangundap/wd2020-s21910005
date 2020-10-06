@@ -1,0 +1,21 @@
+#smile1 {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px; 
+    border: 10px solid red;
+    margin:  0px ;
+}
+#smile2 {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px; 
+    border: 10px solid red;
+    margin-left:  180px ;
+}
+#smile3 {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px; 
+    border: 10px solid red;
+    margin-left:  360px ;
+}
