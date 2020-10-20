@@ -1,0 +1,21 @@
+#px{
+    /*satuan unit px memiliki perhitungan 16px= 1 em, "Px" juga tidak berubah satuan defaultnya kecuali jika di zoom */
+    font-size: 24px;
+}
+#px2{
+    font-size: 13px;
+}
+#em{
+    /*satuan unit em bersifat dinamis dan juga berpengaruh pada inheritnya jadi ada akumulasi antara tag di bawahnya pada html*/
+    font-size: 2em;
+}
+#em2{
+    font-size: 1.5115em;
+}
+#rem{
+    /*rem bersifat dinamis tetapi tidak di inherit (diturunkan)*/
+    font-size: 1.5rem;
+}
+#rem2{
+    font-size: 1.1115rem;
+} 
